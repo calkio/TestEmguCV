@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestEmguCV", "TestEmguCV\TestEmguCV.csproj", "{7419BB97-0758-45E3-97D5-F393689D84A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestEmguCV2", "TestEmguCV2\TestEmguCV2.csproj", "{68D12D7A-0B9E-45AE-A2F9-218C97D8210B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video", "Video\Video.csproj", "{EDAC5B33-A97B-4E2C-A6ED-6570CEC850DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7419BB97-0758-45E3-97D5-F393689D84A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7419BB97-0758-45E3-97D5-F393689D84A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7419BB97-0758-45E3-97D5-F393689D84A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7419BB97-0758-45E3-97D5-F393689D84A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D12D7A-0B9E-45AE-A2F9-218C97D8210B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D12D7A-0B9E-45AE-A2F9-218C97D8210B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D12D7A-0B9E-45AE-A2F9-218C97D8210B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D12D7A-0B9E-45AE-A2F9-218C97D8210B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDAC5B33-A97B-4E2C-A6ED-6570CEC850DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAC5B33-A97B-4E2C-A6ED-6570CEC850DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAC5B33-A97B-4E2C-A6ED-6570CEC850DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAC5B33-A97B-4E2C-A6ED-6570CEC850DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58BCE3DF-B21E-4594-8CA6-38A7F7DE5A16}
+	EndGlobalSection
+EndGlobal
